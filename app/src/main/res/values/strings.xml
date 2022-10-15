@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="cart">Корзина</string>
+    <string name="profile">Профиль</string>
+    <string name="menu">Меню</string>
+    <string name="qr_code">qr code</string>
+    <string name="error_message">Случилась какая-то ошибка\nПопробуем снова?</string>
+    <string name="try_again">Попробовать</string>
+    <string name="price_format">от %d р</string>
+
+    <string-array name="city_name">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Сочи</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Пицца</item>
+        <item>Комбо</item>
+        <item>Десерты</item>
+        <item>Напитки</item>
+    </string-array>
+</resources>
